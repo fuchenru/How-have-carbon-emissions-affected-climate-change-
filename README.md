@@ -23,3 +23,10 @@ Analyzing historical trends in carbon emissions and climate change
 Examining the relationship between carbon emissions and various climate variables, such as temperature, extreme weather events, sea level, and ocean acidity
 Creating visualizations to illustrate our findings
 Drawing conclusions about the impact of carbon emissions on climate change
+
+
+We can compare the carbon emission with:
+
+Sea level
+
+Ocean acidification
