@@ -1,3 +1,4 @@
+![Global_Temp_and_CO2_400-1](https://user-images.githubusercontent.com/95981707/222204643-5baf092b-10d2-4d3b-a3f4-f6354a806e51.jpg)
 # How have carbon emissions affected climate change?
 
 Group member: 
@@ -25,8 +26,3 @@ Creating visualizations to illustrate our findings
 Drawing conclusions about the impact of carbon emissions on climate change
 
 
-We can compare the carbon emission with:
-
-Sea level
-
-Ocean acidification
