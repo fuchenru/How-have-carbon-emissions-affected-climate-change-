@@ -2,10 +2,11 @@
 # How have carbon emissions affected climate change?
 
 Group member: 
+Peter Fu Chen,
 Riley Millikan, 
 Mike Liu
 
-This project is the final project for the CMSE 202 course. The goal of this project is to investigate the relationship between carbon emissions and climate change. Our group members for this project are Riley Millikan and Mike Liu.
+This project is the final project for the CMSE 202 course. The goal of this project is to investigate the relationship between carbon emissions and climate change. Our group members for this project are Peter Fu Chen, Riley Millikan and Mike Liu.
 
 Project Overview
 Carbon emissions are one of the main contributors to climate change. As such, it is important to understand the relationship between the two. In this project, we will explore various aspects of carbon emissions and climate change, such as the relationship between carbon emissions and rising temperatures, the impact of carbon emissions on extreme weather events, and the role of carbon emissions in sea level rise.
