@@ -4,7 +4,9 @@
 Group member: 
 Peter Fu Chen,
 Riley Millikan, 
-Mike Liu
+Mike Liu,
+Alex Tran,
+Trevor Parcella 
 
 This project is the final project for the CMSE 202 course. The goal of this project is to investigate the relationship between carbon emissions and climate change. Our group members for this project are Peter Fu Chen, Riley Millikan and Mike Liu.
 
@@ -21,9 +23,12 @@ We will be using various sources of data to investigate the impact of carbon emi
 
 Our goals for this project include:
 
-Analyzing historical trends in carbon emissions and climate change
-Examining the relationship between carbon emissions and various climate variables, such as temperature, extreme weather events, sea level, and ocean acidity
-Creating visualizations to illustrate our findings
-Drawing conclusions about the impact of carbon emissions on climate change
+Analyzing historical trends in carbon emissions and climate change.
+
+Examining the relationship between carbon emissions and various climate variables, such as temperature, extreme weather events, sea level, and ocean acidity.
+
+Creating visualizations to illustrate our findings.
+
+Drawing conclusions about the impact of carbon emissions on climate change.
 
 
