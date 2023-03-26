@@ -1,34 +1,55 @@
-![Global_Temp_and_CO2_400-1](https://user-images.githubusercontent.com/95981707/222204643-5baf092b-10d2-4d3b-a3f4-f6354a806e51.jpg)
-# How have carbon emissions affected climate change?
+## Investigating the Relationship Between Carbon Emissions and Climate Change
 
-Group member: 
-Peter Fu Chen,
-Riley Millikan, 
-Mike Liu,
-Alex Tran,
-Trevor Parcella 
+This project investigates the relationship between carbon emissions and climate change. Carbon emissions are known to be a leading contributor to climate change, which has significant impacts on the environment and human society. Therefore, understanding the relationship between these two variables is crucial.
 
-This project is the final project for the CMSE 202 course. The goal of this project is to investigate the relationship between carbon emissions and climate change. Our group members for this project are Peter Fu Chen, Riley Millikan and Mike Liu.
+### Background and Motivation
 
-Project Overview
-Carbon emissions are one of the main contributors to climate change. As such, it is important to understand the relationship between the two. In this project, we will explore various aspects of carbon emissions and climate change, such as the relationship between carbon emissions and rising temperatures, the impact of carbon emissions on extreme weather events, and the role of carbon emissions in sea level rise.
+This project is the final project for the CMSE 202 course. The goal of this project is to investigate the relationship between carbon emissions and climate change. Our group members for this project are Peter Fu Chen, Riley Millikan, Mike Liu, Alex Tran, and Trevor Parcella.
 
-Data Sources
-We will be using various sources of data to investigate the impact of carbon emissions on climate change. Some of the data sources we plan to use include:
-
-- NOAA's Global Climate Dashboard (https://www.climate.gov/maps-data)
-- NASA's Global Climate Change (https://climate.nasa.gov/vital-signs/carbon-dioxide/)
-- IPCC reports (https://www.ipcc.ch/reports/)
-- World Bank (https://data.worldbank.org/indicator/EN.ATM.CO2E.PC)
+### Project Overview
 
 Our goals for this project include:
 
 Analyzing historical trends in carbon emissions and climate change.
-
-Examining the relationship between carbon emissions and various climate variables, such as temperature, extreme weather events, sea level, and ocean acidity.
-
-Creating visualizations to illustrate our findings.
-
+Examining the relationship between carbon emissions and various climate variables.
 Drawing conclusions about the impact of carbon emissions on climate change.
 
+### Methodology
 
+The following methodology will be used in the project:
+
+- Data collection and cleaning: historical data on carbon emissions and climate variables will be collected and cleaned using Python libraries such as pandas and numpy.
+- Data analysis: various statistical and machine learning techniques will be used to analyze the relationship between carbon emissions and climate variables. Linear regression models will be trained to predict the impact of carbon emissions on climate variables.
+- Visualization: data visualizations will be created using Python libraries such as matplotlib and seaborn to illustrate the relationship between carbon emissions and climate variables.
+- Conclusion: based on the analysis and visualizations, conclusions will be drawn about the impact of carbon emissions on climate change.
+
+
+### Repository Contents
+
+- data: directory containing data sources used in the project.
+- notebooks: directory containing Jupyter notebooks used in the project.
+- README.md: project overview and instructions.
+- LICENSE: license file.
+
+#### Installation
+
+To run the code in this repository, you will need to have Python 3 and the following Python libraries installed:
+
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- scikit-learn
+- statsmodels
+
+
+You can install these libraries using pip:
+
+```
+pip install pandas numpy matplotlib seaborn scikit-learn statsmodels
+```
+
+
+### License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
