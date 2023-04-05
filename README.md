@@ -1,4 +1,4 @@
-## Investigating the Relationship Between Carbon Emissions and Climate Change
+# Investigating the Relationship Between Carbon Emissions and Climate Change
 
 This project investigates the relationship between carbon emissions and climate change. Carbon emissions are known to be a leading contributor to climate change, which has significant impacts on the environment and human society. Therefore, understanding the relationship between these two variables is crucial.
 
@@ -31,7 +31,7 @@ The following methodology will be used in the project:
 - README.md: project overview and instructions.
 - LICENSE: license file.
 
-#### Installation
+### Installation
 
 To run the code in this repository, you will need to have Python 3 and the following Python libraries installed:
 
