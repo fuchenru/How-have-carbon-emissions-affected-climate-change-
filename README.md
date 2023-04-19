@@ -1,7 +1,5 @@
 # How have carbon emissions affected climate change?
 
-This project investigates the relationship between carbon emissions and climate change. Carbon emissions are known to be a leading contributor to climate change, which has significant impacts on the environment and human society. Therefore, understanding the relationship between these two variables is crucial.
-
 ### Background and Motivation
 
 The purpose of this project is to explore the relationship between carbon emissions and climate change. Carbon emissions are known to be a leading contributor to climate change, which has significant impacts on the environment and human society. Therefore, understanding the relationship between these two variables is crucial. 
