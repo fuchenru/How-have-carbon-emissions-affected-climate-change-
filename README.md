@@ -52,7 +52,7 @@ If you encounter any issues or have any questions, please feel free to open an i
 
 ### License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/fuchenru How-have-carbon-emissions-affected-climate-change-/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 The MIT License is a permissive open-source software license that allows for reuse within proprietary software, as long as the license terms are followed. You are free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software, subject to the following conditions:
 
